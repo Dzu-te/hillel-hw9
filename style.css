@@ -4,13 +4,20 @@
 
 }
 
+
+body {
+  background-color: rgb(227, 245, 26);
+
+}
+
 .header {
-  background-color: var(--primary-grey-color);
+  background-color: red;
+
 }
 
 
 .container {
-  max-width: 1110px;
+  width: 1150px;
   margin: 0 auto;
   padding-top: 79px;
   padding-inline: 20px;
