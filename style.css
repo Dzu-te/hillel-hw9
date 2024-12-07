@@ -142,14 +142,14 @@
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   color: white;
-  background: left no-repeat url(/images/project.png);
+  background: left no-repeat url(images/project.png);
   padding-left: 70px;
 }
 
 .pj-item-text {
   text-align: left;
   color: white;
-
+  vertical-align: text-bottom;
 }
 
 iframe {
