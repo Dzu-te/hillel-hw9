@@ -6,22 +6,20 @@
 
 
 body {
-  background-color: rgb(227, 245, 26);
-
+  min-width: 1150px;
 }
 
 .header {
-  background-color: red;
+  background-color: var(--primary-grey-color);
 
 }
 
 
 .container {
-  width: 1150px;
+  max-width: 1150px;
   margin: 0 auto;
   padding-top: 79px;
   padding-inline: 20px;
-
 }
 
 .text {
